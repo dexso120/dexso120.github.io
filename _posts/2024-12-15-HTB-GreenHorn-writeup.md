@@ -34,7 +34,7 @@ Hash can be cracked with hashcat (-m 1700).
 Password is used to login to Pluck on http://greenhorn.htb/login.php
 
 # User.txt
-Manual exploit of the vulnerability ([Potential Vulnerability](/o/Og2iEqjeZhsUQ9WJ01Et/s/YLwrMFMuityftyQtpiNM/easy/greenhorn#potential-vulnerability)).
+Manual exploit of the vulnerability (Potential Vulnerability mentioned above).
 After login, visit "options" > "manage modules" > "Install a module...".
 
 ![Screenshot](/assets/img/htb-greenhorn-writeup-screenshot/image_4.png)
