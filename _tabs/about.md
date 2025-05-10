@@ -4,5 +4,4 @@ icon: fas fa-info-circle
 order: 4
 ---
 
-> Add Markdown syntax content to file `_tabs/about.md`{: .filepath } and it will show up on this page.
-{: .prompt-tip }
+I am Derrick (Ching Yiu) So, a Cybersecurity Red Team analyst. This is my website for my blogs which mainly include CTF writeups. I'm also planning to add writeups about my learning on reverse engineering related topics.
