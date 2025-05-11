@@ -1,9 +1,9 @@
 ---
-title: HTB Celestial Writeup
+title: HTB Machine Celestial Writeup
 date: 2025-05-10
 categories: [CTF, HTB]
-tags: [CTF, HTB, Medium]
-description: HTB Celestial Writeup
+tags: [CTF, HTB, Machine, Medium]
+description: HTB Machine Celestial Writeup
 ---
 # Recon
 ## Nmap

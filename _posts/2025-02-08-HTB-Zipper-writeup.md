@@ -1,9 +1,9 @@
 ---
-title: HTB Zipper Writeup
+title: HTB Machine Zipper Writeup
 date: 2025-02-08
 categories: [CTF, HTB]
-tags: [CTF, HTB, Hard]
-description: HTB Zipper Writeup
+tags: [CTF, HTB, Machine, Hard]
+description: HTB Machine Zipper Writeup
 ---
 # Recon
 ## Nmap

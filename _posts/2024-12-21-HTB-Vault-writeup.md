@@ -1,9 +1,9 @@
 ---
-title: HTB Vault Writeup
+title: HTB Machine Vault Writeup
 date: 2024-12-21
 categories: [CTF, HTB]
-tags: [CTF, HTB, Medium]
-description: HTB Vault Writeup
+tags: [CTF, HTB, Machine, Medium]
+description: HTB Machine Vault Writeup
 ---
 # Nmap
 ```bash

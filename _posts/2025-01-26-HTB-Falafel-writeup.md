@@ -1,9 +1,9 @@
 ---
-title: HTB Falafel Writeup
+title: HTB Machine Falafel Writeup
 date: 2025-01-26
 categories: [CTF, HTB]
-tags: [CTF, HTB, Hard]
-description: HTB Falafel Writeup
+tags: [CTF, HTB, Machine, Hard]
+description: HTB Machine Falafel Writeup
 ---
 # Recon
 ## Nmap

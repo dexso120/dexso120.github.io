@@ -1,9 +1,9 @@
 ---
-title: HTB GreenHorn Writeup
+title: HTB Machine GreenHorn Writeup
 date: 2024-12-15
 categories: [CTF, HTB]
-tags: [CTF, HTB, Easy]
-description: HTB GreenHorn Writeup
+tags: [CTF, HTB, Machine, Easy]
+description: HTB Machine GreenHorn Writeup
 ---
 # Recon
 ## Nmap
